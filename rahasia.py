@@ -29,3 +29,17 @@ kko = ""
 oji = ""
 
 
+
+que = {}
+
+ROMMEL_USERS = []
+for x in SUDO: 
+    ROMMEL_USERS.append(x)
+    
+async def start_yukki():
+    global rml
+    global tta
+    global ska
+    global kko
+    global oji
+    
