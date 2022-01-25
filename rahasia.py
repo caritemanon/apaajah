@@ -19,3 +19,13 @@ tata = STRING2
 siska = STRING3
 koko = STRING4
 ojie = STRING5
+
+
+
+rml = ""
+tta = ""
+ska = ""
+kko = ""
+oji = ""
+
+
