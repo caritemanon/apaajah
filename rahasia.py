@@ -42,4 +42,8 @@ async def start_yukki():
     global ska
     global kko
     global oji
-    
+    if rommel:
+        session_name = str(rommel)
+        print("String 1 Found")
+        idk = TelegramClient(StringSession(session_name), a, b)
+        try:
